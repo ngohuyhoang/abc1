@@ -1,0 +1,11 @@
+https://entityframeworkcore.com/querying-data-evaluation-client-server
+
+efcore 
+
++ include, then include
++ related		sub-related
+
+C# dotnet
+ef
+api consuming
+tsql + sp
